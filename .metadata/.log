@@ -1,0 +1,19 @@
+!SESSION 2010-05-25 23:26:54.062 -----------------------------------------------
+eclipse.buildId=M20090917-0800
+java.version=1.6.0_10
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=bg_BG
+Framework arguments:  -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -product org.eclipse.epp.package.php.product -data C:\wamp\www\ask_doctor -product org.eclipse.epp.package.php.product
+
+!ENTRY org.eclipse.osgi 2 1 2010-05-25 23:27:47.305
+!MESSAGE NLS missing message: NewPHPProjectPreferencePage_jrelibrary_label in: org.eclipse.php.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-05-25 23:27:47.305
+!MESSAGE NLS missing message: NewPHPProjectPreferencePage_jre_variable_description in: org.eclipse.php.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-05-25 23:27:47.305
+!MESSAGE NLS missing message: NewPHPProjectPreferencePage_jre_container_description in: org.eclipse.php.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-05-25 23:27:47.305
+!MESSAGE NLS missing message: NewPHPProjectPreferencePage_error_decode in: org.eclipse.php.internal.ui.preferences.PreferencesMessages

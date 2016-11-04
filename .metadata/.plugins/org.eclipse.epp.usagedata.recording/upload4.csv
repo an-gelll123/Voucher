@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1274818935461
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1274818935461
+java.vm.specification.version,sysinfo,,,"1.0",1274818935461
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1274818935461
+java.vm.version,sysinfo,,,"11.0-b15",1274818935461
+activated,view,org.eclipse.php.ui,2.1.1.v20090914-1400,"org.eclipse.php.ui.explorer",1274818935633
+activated,view,org.eclipse.php.ui,2.1.1.v20090914-1400,"org.eclipse.php.ui.explorer",1274818935680
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1274818935695
+started,bundle,org.eclipse.dltk.rse.core,1.0.0.v20090613-1432,"org.eclipse.dltk.rse.core",1274818937271
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274818937287
+started,bundle,org.eclipse.rse.services,3.1.1.v200909160005,"org.eclipse.rse.services",1274818937318
+started,bundle,org.eclipse.rse.core,3.1.1.v200909160005,"org.eclipse.rse.core",1274818937333
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274818937443
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274818937583
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274818955929
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274818970624
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1274818970842
+stopped,bundle,org.eclipse.dltk.testing,1.0.0.v20090610-1638,"org.eclipse.dltk.testing",1274818970842
+stopped,bundle,org.eclipse.dltk.debug.ui,1.0.1.v20090910-1601,"org.eclipse.dltk.debug.ui",1274818970842
+stopped,bundle,org.eclipse.dltk.formatter,1.0.1.v20090903-2153,"org.eclipse.dltk.formatter",1274818970842
+stopped,bundle,org.eclipse.dltk.rse.ui,1.0.0.v20090610-1638,"org.eclipse.dltk.rse.ui",1274818970842
+stopped,bundle,org.eclipse.dltk.validators.externalchecker,1.0.0.v20090610-1638,"org.eclipse.dltk.validators.externalchecker",1274818970842
+stopped,bundle,org.eclipse.dltk.validators.ui,1.0.0.v20090610-1638,"org.eclipse.dltk.validators.ui",1274818970842
+stopped,bundle,org.zend.php.debug.debugger,5.2.26.v20090817,"org.zend.php.debug.debugger",1274818970842
+stopped,bundle,org.eclipse.php.server.ui,2.1.1.v20090707-1108,"org.eclipse.php.server.ui",1274818970858

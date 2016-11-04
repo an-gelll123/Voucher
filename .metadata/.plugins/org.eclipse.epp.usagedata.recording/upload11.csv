@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1274818995958
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1274818995958
+java.vm.version,sysinfo,,,"11.0-b15",1274818995958
+started,bundle,org.eclipse.dltk.rse.core,1.0.0.v20090613-1432,"org.eclipse.dltk.rse.core",1274818999780
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274818999796
+started,bundle,org.eclipse.rse.services,3.1.1.v200909160005,"org.eclipse.rse.services",1274818999827
+started,bundle,org.eclipse.rse.core,3.1.1.v200909160005,"org.eclipse.rse.core",1274818999843
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819000030
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819000170
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819034568
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.0.v200904240436,"org.eclipse.wst.xsl.debug.ui",1274819036003
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819041651
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819052212
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.newWizard",1274819052212
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819057906
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819065160
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1274819065222
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1274819065472
+stopped,bundle,org.eclipse.dltk.testing,1.0.0.v20090610-1638,"org.eclipse.dltk.testing",1274819065472
+stopped,bundle,org.eclipse.dltk.debug.ui,1.0.1.v20090910-1601,"org.eclipse.dltk.debug.ui",1274819065472
+stopped,bundle,org.eclipse.dltk.formatter,1.0.1.v20090903-2153,"org.eclipse.dltk.formatter",1274819065472
+stopped,bundle,org.eclipse.dltk.rse.ui,1.0.0.v20090610-1638,"org.eclipse.dltk.rse.ui",1274819065472
+stopped,bundle,org.eclipse.dltk.validators.externalchecker,1.0.0.v20090610-1638,"org.eclipse.dltk.validators.externalchecker",1274819065472
+stopped,bundle,org.eclipse.dltk.validators.ui,1.0.0.v20090610-1638,"org.eclipse.dltk.validators.ui",1274819065472
+stopped,bundle,org.zend.php.debug.debugger,5.2.26.v20090817,"org.zend.php.debug.debugger",1274819065472

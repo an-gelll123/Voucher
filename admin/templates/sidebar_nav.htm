@@ -1,0 +1,65 @@
+<patTemplate:tmpl name="sidebar-nav">
+	<div class="sidebar-nav">
+		<ul>
+			<li><a href="clients/list.php" class="nav-header"><i class="fa fa-fw fa-address-book"></i> Клиенти</a></li>
+			<li><a href="#" data-target=".devices-menu" class="nav-header collapsed" data-toggle="collapse"><i class="fa fa-fw fa-television"></i> Устройства<i class="fa fa-collapse"></i></a></li>
+			<li>
+				<ul class="devices-menu nav nav-list collapse">
+				<li><a href="index.html"><span class="fa fa-caret-right"></span> Main</a></li>
+				<li><a href="users.html"><span class="fa fa-caret-right"></span> User List</a></li>
+				<li><a href="user.html"><span class="fa fa-caret-right"></span> User Profile</a></li>
+				<li><a href="media.html"><span class="fa fa-caret-right"></span> Media</a></li>
+				<li><a href="calendar.html"><span class="fa fa-caret-right"></span> Calendar</a></li>
+			</li>
+		</ul>
+<!--
+		<ul>
+			<li data-popover="true" data-content="Items in this group require a <strong><a href='http://portnine.com/bootstrap-themes/aircraft' target='blank'>premium license</a><strong>." rel="popover" data-placement="right" data-original-title="" title=""><a href="#" data-target=".premium-menu" class="nav-header collapsed" data-toggle="collapse"><i class="fa fa-fw fa-television"></i> Устройства<i class="fa fa-collapse"></i></a></li>
+			<li>
+				<ul class="premium-menu nav nav-list collapse in">
+					<li class="visible-xs visible-sm"><a href="#">- Premium features require a license -</a></li>
+					<li><a href="premium-profile.html"><span class="fa fa-caret-right"></span> Enhanced Profile</a></li>
+					<li><a href="premium-blog.html"><span class="fa fa-caret-right"></span> Blog</a></li>
+					<li><a href="premium-blog-item.html"><span class="fa fa-caret-right"></span> Blog Page</a></li>
+					<li><a href="premium-pricing-tables.html"><span class="fa fa-caret-right"></span> Pricing Tables</a></li>
+					<li><a href="premium-upgrade-account.html"><span class="fa fa-caret-right"></span> Upgrade Account</a></li>
+					<li><a href="premium-widgets.html"><span class="fa fa-caret-right"></span> Widgets</a></li>
+					<li><a href="premium-timeline.html"><span class="fa fa-caret-right"></span> Activity Timeline</a></li>
+					<li><a href="premium-users.html"><span class="fa fa-caret-right"></span> Enhanced Users List</a></li>
+					<li><a href="premium-media.html"><span class="fa fa-caret-right"></span> Enhanced Media</a></li>
+					<li><a href="premium-invoice.html"><span class="fa fa-caret-right"></span> Invoice</a></li>
+					<li class="active"><a href="premium-build.html"><span class="fa fa-caret-right"></span> Advanced Tools</a></li>
+					<li><a href="premium-colors.html"><span class="fa fa-caret-right"></span> Additional Color Themes</a></li>
+				</ul>
+			</li>
+//-->
+			<li><a href="#" data-target=".accounts-menu" class="nav-header collapsed" data-toggle="collapse"><i class="fa fa-fw fa-calendar-o"></i> Абонаменти <span class="label label-info">+3</span></a></li>
+			<li>
+				<ul class="accounts-menu nav nav-list collapse">
+					<li><a href="sign-in.html"><span class="fa fa-caret-right"></span> Sign In</a></li>
+					<li><a href="sign-up.html"><span class="fa fa-caret-right"></span> Sign Up</a></li>
+					<li><a href="reset-password.html"><span class="fa fa-caret-right"></span> Reset Password</a></li>
+				</ul>
+			</li>
+
+			<li><a href="#" data-target=".legal-menu" class="nav-header collapsed" data-toggle="collapse"><i class="fa fa-fw fa-credit-card"></i> Плащания<i class="fa fa-collapse"></i></a></li>
+			<li>
+				<ul class="legal-menu nav nav-list collapse">
+					<li><a href="privacy-policy.html"><span class="fa fa-caret-right"></span> Privacy Policy</a></li>
+					<li><a href="terms-and-conditions.html"><span class="fa fa-caret-right"></span> Terms and Conditions</a></li>
+				</ul>
+			</li>
+
+			<li><a href="#" data-target=".settings-menu" class="nav-header collapsed" data-toggle="collapse"><i class="fa fa-fw fa-cogs"></i> Настройки<i class="fa fa-collapse"></i></a></li>
+			<li>
+				<ul class="settings-menu nav nav-list collapse {CAT_SETTINGS_COLLAPSE}">
+					<li><a href="privacy-policy.html"><span class="fa fa-caret-right"></span> Пакети</a></li>
+					<li {ADMINISTRATORS_ACTIVE}><a href="users/list.php"><span class="fa fa-caret-right"></span> Администратори</a></li>
+				</ul>
+			</li>
+
+			<li><a href="#" class="nav-header">&nbsp;</a></li>
+			<li><a href="{URL}index.php?action=logout" class="nav-header"><i class="fa fa-fw fa-sign-out"></i> Изход</a></li>
+		</ul>
+	</div>
+</patTemplate:tmpl>
